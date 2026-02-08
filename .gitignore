@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
