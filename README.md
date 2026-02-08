@@ -2,6 +2,8 @@
 
 **A simple, well-documented project to learn full-stack development**
 
+> **⚠️ ATTRIBUTION:** This project was created entirely by Claude (Anthropic's AI assistant) for educational purposes. The repository owner did not write this code and is using it purely for learning full-stack development. All credit for the code, architecture, and documentation goes to Claude.
+
 ## What You'll Build
 
 A private note-taking app where you can:
@@ -351,6 +353,25 @@ All code files have **detailed comments** explaining:
 
 ---
 
+## 📜 Attribution & Disclaimer
+
+**Code Author:** This entire project (code, architecture, documentation) was created by **Claude** (Anthropic's AI assistant - claude-sonnet-4.5-20250929).
+
+**Repository Owner:** The owner of this repository did not write any of the code and is using this project solely for **educational purposes** to learn full-stack development.
+
+**Purpose:**
+- 📚 Learning full-stack development concepts
+- 🎓 Understanding REST APIs, databases, and mobile app development
+- 🔍 Studying well-documented, beginner-friendly code
+
+**License:** MIT - Feel free to use this for learning, but please maintain proper attribution to Claude/Anthropic.
+
+**Note to Recruiters/Employers:** This repository represents a learning project created with AI assistance, not original work by the repository owner. It serves as a study resource for understanding full-stack development patterns and best practices.
+
+---
+
 **You've got this! 🚀 Happy Coding!**
 
 *Remember: Every expert developer started exactly where you are now. The key is to keep experimenting and learning!*
+
+*Project generated with [Claude](https://claude.ai) by Anthropic*
